@@ -1,0 +1,259 @@
+Circuit: * D:\Google Drive\Mestrado\Instrumentação\Instrumentação-Alunos\Trabalhos de Alunos\Guilherme\Projeto Final\simulations\ltspice\MC_Noise_AnalogRogowskiSignalProc.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+Gmin = 10.7374
+Gmin = 1.15292
+Gmin = 0.123794
+Gmin = 0.0132923
+Gmin = 0.00142725
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00101493
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 0.000999238
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0.000999969
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+.step run=1
+.step run=2
+.step run=3
+.step run=4
+.step run=5
+.step run=6
+.step run=7
+.step run=8
+.step run=9
+.step run=10
+.step run=11
+.step run=12
+.step run=13
+.step run=14
+.step run=15
+.step run=16
+.step run=17
+.step run=18
+.step run=19
+.step run=20
+.step run=21
+.step run=22
+.step run=23
+.step run=24
+.step run=25
+.step run=26
+.step run=27
+.step run=28
+.step run=29
+.step run=30
+.step run=31
+.step run=32
+.step run=33
+.step run=34
+.step run=35
+.step run=36
+.step run=37
+.step run=38
+.step run=39
+.step run=40
+.step run=41
+.step run=42
+.step run=43
+.step run=44
+.step run=45
+.step run=46
+.step run=47
+.step run=48
+.step run=49
+.step run=50
+.step run=51
+.step run=52
+.step run=53
+.step run=54
+.step run=55
+.step run=56
+.step run=57
+.step run=58
+.step run=59
+.step run=60
+.step run=61
+.step run=62
+.step run=63
+.step run=64
+.step run=65
+.step run=66
+.step run=67
+.step run=68
+.step run=69
+.step run=70
+.step run=71
+.step run=72
+.step run=73
+.step run=74
+.step run=75
+.step run=76
+.step run=77
+.step run=78
+.step run=79
+.step run=80
+.step run=81
+.step run=82
+.step run=83
+.step run=84
+.step run=85
+.step run=86
+.step run=87
+.step run=88
+.step run=89
+.step run=90
+.step run=91
+.step run=92
+.step run=93
+.step run=94
+.step run=95
+.step run=96
+.step run=97
+.step run=98
+.step run=99
+.step run=100
+
+
+Measurement: vruidorms
+  step	INTEG(v(onoise))	FROM	TO
+     1	9.0061e-006	0.1	1e+006
+     2	9.00966e-006	0.1	1e+006
+     3	9.00361e-006	0.1	1e+006
+     4	9.00535e-006	0.1	1e+006
+     5	9.00607e-006	0.1	1e+006
+     6	9.00594e-006	0.1	1e+006
+     7	9.0052e-006	0.1	1e+006
+     8	9.0049e-006	0.1	1e+006
+     9	9.00743e-006	0.1	1e+006
+    10	9.00662e-006	0.1	1e+006
+    11	9.00561e-006	0.1	1e+006
+    12	9.00601e-006	0.1	1e+006
+    13	9.00477e-006	0.1	1e+006
+    14	9.00707e-006	0.1	1e+006
+    15	9.00689e-006	0.1	1e+006
+    16	9.00342e-006	0.1	1e+006
+    17	9.00395e-006	0.1	1e+006
+    18	9.00371e-006	0.1	1e+006
+    19	9.00679e-006	0.1	1e+006
+    20	9.00775e-006	0.1	1e+006
+    21	9.00724e-006	0.1	1e+006
+    22	9.01041e-006	0.1	1e+006
+    23	9.00876e-006	0.1	1e+006
+    24	9.00585e-006	0.1	1e+006
+    25	9.0018e-006	0.1	1e+006
+    26	9.00331e-006	0.1	1e+006
+    27	9.00713e-006	0.1	1e+006
+    28	9.00694e-006	0.1	1e+006
+    29	9.00141e-006	0.1	1e+006
+    30	9.00889e-006	0.1	1e+006
+    31	9.00446e-006	0.1	1e+006
+    32	9.00626e-006	0.1	1e+006
+    33	9.00536e-006	0.1	1e+006
+    34	9.00608e-006	0.1	1e+006
+    35	9.00677e-006	0.1	1e+006
+    36	9.00888e-006	0.1	1e+006
+    37	9.00894e-006	0.1	1e+006
+    38	9.00651e-006	0.1	1e+006
+    39	9.00642e-006	0.1	1e+006
+    40	9.00703e-006	0.1	1e+006
+    41	9.00443e-006	0.1	1e+006
+    42	9.00296e-006	0.1	1e+006
+    43	9.00686e-006	0.1	1e+006
+    44	9.00595e-006	0.1	1e+006
+    45	9.00511e-006	0.1	1e+006
+    46	9.00501e-006	0.1	1e+006
+    47	9.00664e-006	0.1	1e+006
+    48	9.00965e-006	0.1	1e+006
+    49	9.00444e-006	0.1	1e+006
+    50	9.00197e-006	0.1	1e+006
+    51	9.0031e-006	0.1	1e+006
+    52	9.00033e-006	0.1	1e+006
+    53	9.00249e-006	0.1	1e+006
+    54	9.00593e-006	0.1	1e+006
+    55	9.00978e-006	0.1	1e+006
+    56	9.00325e-006	0.1	1e+006
+    57	9.00561e-006	0.1	1e+006
+    58	9.00378e-006	0.1	1e+006
+    59	9.00367e-006	0.1	1e+006
+    60	9.00524e-006	0.1	1e+006
+    61	9.00632e-006	0.1	1e+006
+    62	9.00401e-006	0.1	1e+006
+    63	9.00265e-006	0.1	1e+006
+    64	9.00943e-006	0.1	1e+006
+    65	9.00494e-006	0.1	1e+006
+    66	9.00379e-006	0.1	1e+006
+    67	9.00196e-006	0.1	1e+006
+    68	9.00893e-006	0.1	1e+006
+    69	9.00401e-006	0.1	1e+006
+    70	9.00992e-006	0.1	1e+006
+    71	9.00739e-006	0.1	1e+006
+    72	9.00553e-006	0.1	1e+006
+    73	9.00563e-006	0.1	1e+006
+    74	9.00781e-006	0.1	1e+006
+    75	9.01082e-006	0.1	1e+006
+    76	9.00315e-006	0.1	1e+006
+    77	9.01055e-006	0.1	1e+006
+    78	9.00062e-006	0.1	1e+006
+    79	9.00754e-006	0.1	1e+006
+    80	9.00787e-006	0.1	1e+006
+    81	9.0104e-006	0.1	1e+006
+    82	9.00425e-006	0.1	1e+006
+    83	9.0068e-006	0.1	1e+006
+    84	9.00763e-006	0.1	1e+006
+    85	9.00479e-006	0.1	1e+006
+    86	9.00912e-006	0.1	1e+006
+    87	9.00667e-006	0.1	1e+006
+    88	9.00158e-006	0.1	1e+006
+    89	9.0083e-006	0.1	1e+006
+    90	9.00526e-006	0.1	1e+006
+    91	9.00424e-006	0.1	1e+006
+    92	9.00881e-006	0.1	1e+006
+    93	9.00973e-006	0.1	1e+006
+    94	9.00471e-006	0.1	1e+006
+    95	9.00052e-006	0.1	1e+006
+    96	9.00586e-006	0.1	1e+006
+    97	9.00487e-006	0.1	1e+006
+    98	9.00624e-006	0.1	1e+006
+    99	9.00451e-006	0.1	1e+006
+   100	9.00372e-006	0.1	1e+006
+
+
+Date: Fri Jul 12 00:06:20 2019
+Total elapsed time: 279.819 seconds.
+
+tnom = 27
+temp = 80
+method = trap
+totiter = 3445
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 358
+fillins = 1147
+solver = Normal
+Matrix Compiler1:    6365 opcodes
+Matrix Compiler2: 50.65 KB object code size  15.4/14.7/[10.0]
+
+

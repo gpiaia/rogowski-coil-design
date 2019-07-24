@@ -1,0 +1,109 @@
+Circuit: * D:\Google Drive\Mestrado\Instrumentação\Instrumentação-Alunos\Trabalhos de Alunos\Guilherme\Projeto Final\simulations\ltspice\AC_AnalogRogowskiSignalProc.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Gmin = 1000
+Gmin = 107.374
+Gmin = 11.5292
+Gmin = 1.23794
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 0.999885
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 1.00928
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 1.00339
+vernier = 0.00260417
+vernier = 0.00130208
+vernier = 0.000651042
+Gmin = 1.00111
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+Source Step = 91.0748%
+vernier = 0.00146484
+Source Step = 91.1177%
+Source Step = 91.1621%
+Source Step = 91.2065%
+Source Step = 91.2509%
+Source Step = 91.2953%
+vernier = 0.00219727
+Source Step = 91.3574%
+Source Step = 91.424%
+Source Step = 91.4906%
+Source Step = 91.5572%
+Source Step = 91.6238%
+vernier = 0.0032959
+Source Step = 91.7136%
+Source Step = 91.8135%
+Source Step = 91.9134%
+Source Step = 92.0133%
+Source Step = 92.1131%
+vernier = 0.00494385
+Source Step = 92.243%
+Source Step = 92.3928%
+Source Step = 92.5426%
+Source Step = 92.6924%
+Source Step = 92.8422%
+vernier = 0.00741577
+Source Step = 93.0295%
+Source Step = 93.2542%
+Source Step = 93.4789%
+Source Step = 93.7037%
+Source Step = 93.9284%
+vernier = 0.0111237
+Source Step = 94.1981%
+Source Step = 94.5351%
+Source Step = 94.8722%
+Source Step = 95.2093%
+Source Step = 95.5464%
+vernier = 0.0166855
+Source Step = 95.934%
+Source Step = 96.4396%
+Source Step = 96.9453%
+Source Step = 97.4509%
+Source Step = 97.9565%
+vernier = 0.0250282
+Source Step = 98.5127%
+Source Step = 99.2711%
+Source Step = 100%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Thu Jul 04 19:58:52 2019
+Total elapsed time: 11.828 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 7191
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 358
+fillins = 1354
+solver = Normal
+Matrix Compiler1:    6885 opcodes
+Matrix Compiler2: 54.33 KB object code size  17.8/21.6/[8.9]
+
+
