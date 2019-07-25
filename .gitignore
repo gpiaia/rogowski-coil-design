@@ -1,0 +1,6 @@
+*.ini
+.ipynb_checkpoints/
+images/.ipynb_checkpoints/
+simulations/.ipynb_checkpoints/
+simulations/calculus/.ipynb_checkpoints/
+simulations/bkp/

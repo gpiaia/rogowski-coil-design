@@ -1,6 +1,5 @@
 Circuit: * D:\Google Drive\Mestrado\Instrumentação\Instrumentação-Alunos\Trabalhos de Alunos\Guilherme\Projeto Final\simulations\ltspice\AnalogRogowskiSignalProc.asc
 
-Wave file v1: channel 2 requested, max is 0
 Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
 Starting Gmin stepping
 Increasing initial diagonal Gmin to 100
@@ -17,15 +16,19 @@ vernier = 0.0625
 vernier = 0.03125
 vernier = 0.015625
 vernier = 0.0078125
-Gmin = 1.00928
+Gmin = 1.01125
 vernier = 0.00390625
 vernier = 0.00195313
-Gmin = 1.00339
-vernier = 0.00260417
+Gmin = 1.00633
+vernier = 0.000976563
 vernier = 0.00130208
+Gmin = 1.00379
 vernier = 0.000651042
-Gmin = 1.00111
-vernier = 0.000488281
+vernier = 0.000868055
+vernier = 0.000434028
+Gmin = 1.00309
+vernier = 0.000578703
+vernier = 0.000434027
 Gmin = 0
 Gmin stepping failed
 
@@ -37,22 +40,22 @@ Source Step = 93.9394%
 Source stepping succeeded in finding the operating point.
 
 
-Date: Thu Jun 27 21:57:01 2019
-Total elapsed time: 60.998 seconds.
+Date: Thu Jul 25 01:20:06 2019
+Total elapsed time: 18.411 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 441212
-traniter = 437370
-tranpoints = 117467
-accept = 100743
-rejected = 16724
-matrix size = 358
-fillins = 1400
+totiter = 92967
+traniter = 88278
+tranpoints = 44140
+accept = 44140
+rejected = 0
+matrix size = 290
+fillins = 1221
 solver = Normal
-Thread vector: 94.6/51.1[4] 57.1/29.2[4] 15.8/11.3[4] 3.7/6.5[1]  2592/500
-Matrix Compiler1: 160.02 KB object code size  83.3/51.9/[20.6]
-Matrix Compiler2: 54.89 KB object code size  19.1/25.7/[6.5]
+Thread vector: 96.1/74.4[4] 49.5/16.9[4] 19.3/11.0[4] 3.5/5.2[1]  2592/500
+Matrix Compiler1: 130.10 KB object code size  69.7/46.9/[16.5]
+Matrix Compiler2: 46.56 KB object code size  17.4/20.7/[6.2]
 
 
